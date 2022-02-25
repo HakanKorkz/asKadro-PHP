@@ -1,0 +1,5 @@
+Personel listelemek için : action=employeeList  parametre almaz 
+personel eklemek için : action=employeeAdd  alacağı parametreler (firstName, lastName, phone, date, adress, tc, iban, workType, email, password)
+personel güncellemek için : action=employeeUpdate  alacağı parametreler  firstName, lastName, phone, date, adress, tc, iban, workType, email, password,employeeCode
+personel silmek için : action=employeeDeleted  alacağı parametre employeeCode
+personel login için : action=employeeLogin  parametre email , password

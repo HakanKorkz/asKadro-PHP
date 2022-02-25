@@ -1,0 +1,40 @@
+.App {
+    border: 2px solid #d3d3d3;
+    border-radius: .5em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 1em;
+    text-align: left;
+    width: 600px;
+
+  }
+  
+  .form {
+    padding: 1em;
+  }
+  
+  Label {
+    font-weight: 600;
+    font-size: 21px;
+  }
+.buttonRow{
+  justify-content: space-evenly;
+  margin-bottom: 15px;
+}
+.buttonRow Button{
+width: 130px;
+height: 40px;
+
+}
+.App h2 {
+  font-size: 30px;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 25px;
+}
+
+.App Input {
+  height: 40px;
+}

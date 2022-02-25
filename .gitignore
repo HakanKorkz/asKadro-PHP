@@ -1,0 +1,8 @@
+# dependencies
+/.idea
+/backend/logs/
+/backend/uploads/
+/backend/settings/composer/vendor
+/backend/settings/composer/composer.lock
+/backend/settings/classModelsRouter.php
+/backend/settings/generator.json

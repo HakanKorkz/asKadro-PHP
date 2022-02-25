@@ -1,0 +1,29 @@
+.company{
+    width: 100%;
+    text-align: center;
+    margin-top: 7px;
+}
+.list{
+    display: flex;
+    margin-left: auto; 
+	margin-right: auto;
+    height: 30px;
+    align-items: center;
+    
+}
+.list li{
+    margin: 0 30px;
+    display: inline-block;
+    text-align: center;
+    list-style: none;
+
+
+
+}
+div ul li button{
+    border-radius: 40px;
+    border-width: 0px;
+    height: auto;
+    width: 100px;
+    background-color: whitesmoke;
+}

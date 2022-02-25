@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "verot/class.upload.php": "^2.1",
+        "firebase/php-jwt": "^5.5",
+        "vlucas/valitron": "^1.4"
+    }
+}

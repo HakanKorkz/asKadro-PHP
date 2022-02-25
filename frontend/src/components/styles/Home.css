@@ -1,0 +1,9 @@
+.body {
+    width: 100%;
+    max-height: max-content;
+    margin-top: 7px;
+    border-radius: 7px;
+    background-color:whitesmoke;
+    padding: 20px 20px;
+    margin: 20px 20px;
+}
